@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  With extensive experience of 10+ years, I specialize in full-stack .NET development, emphasizing efficient, high-quality software solutions. 
+  With extensive experience of 7+ years, I specialize in full-stack .NET development, emphasizing efficient, high-quality software solutions. 
 
   My entrepreneurial spirit coupled with my deep technical proficiency ensures that projects not only meet but exceed client's expectations.
 
