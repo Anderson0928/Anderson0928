@@ -7,7 +7,7 @@
 
   Technical Expertise:
   
-  - Primary Technologies: C#, .NET ( 5, 6, 7 ), ASP.NET, ASP.NET Core, Blazor, Sitecore, Umbraco, DevExpress, Golang, NodeJS and MS Azure Cloud.
+  - Primary Technologies: Go, C#, .NET, ASP.NET, ASP.NET Core, Blazor, Sitecore, Umbraco, DevExpress, Golang, NodeJS and MS Azure Cloud.
   - Frontend Frameworks: Angular (6+), Kendo UI, Telerik, NW.js, Backbone.js, React, Redux, Typescript, Knockout, and Vanilla JS.
   - Backend & Integration: ASP.NET Web API, IIS, Entity Framework Core, REST/SOAP API development.
   - Databases: MSSQL, ArangoDB, PL/SQL, Transact-SQL, MS Access.
